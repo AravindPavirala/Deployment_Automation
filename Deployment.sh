@@ -1,3 +1,4 @@
+#1 2 3
 #!/bin/sh
 
 echo "Please choose below options:"
